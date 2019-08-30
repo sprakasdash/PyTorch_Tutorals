@@ -1,4 +1,4 @@
-# PyTorch_Tutorals
+# PyTorch_Tutorials
 Tutorials for PyTorch users from beginner to intermediate.
 
 This list contains all my experiments and course assignments in understanding Deep Learning.  
