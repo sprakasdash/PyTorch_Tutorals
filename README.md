@@ -10,4 +10,5 @@ The list will go on as:
   5_cifar10_using_resnet contains CIFAR10 dataset trained using pretrained ResNet.  
 
 Added Bi-LSTM tutorial for POS & NER.
+
   6_NLP_POS_Tagger contains code for POS tagging using Bi-LSTM using pretrained Glove word-embedding and custom function for     editing files 
